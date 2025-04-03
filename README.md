@@ -1,9 +1,11 @@
-<!--- ![Image](https://github.com/user-attachments/assets/6e49eb75-527f-465b-84db-a2b32e6aecfc) --->
+<!--- ![Image](https://github.com/user-attachments/assets/c8dd0194-92e7-478f-88db-25f52876a415) --->
+<!--- ![Image](https://github.com/user-attachments/assets/462f7af5-2ba5-4b37-a93d-4a9b433e3b13) --->
 
 # 🧩 Quebra-Cabeça Deslizante (3x3)  
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6e49eb75-527f-465b-84db-a2b32e6aecfc">
+  <img src="https://github.com/user-attachments/assets/c8dd0194-92e7-478f-88db-25f52876a415">
+  <img src="https://github.com/user-attachments/assets/462f7af5-2ba5-4b37-a93d-4a9b433e3b13">
 </div>  
 
 ## 📌 Sobre o projeto  
